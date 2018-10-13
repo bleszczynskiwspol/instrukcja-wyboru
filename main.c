@@ -18,22 +18,11 @@ int main() {
             break;
         default:
             ++nieznany;
-
-
-            printf("a: %i, b: %i, xy: %i, inny: %i");
-            ile_a, ile_b, ile_xy, nieznany;
-
-
     }
 
 
-
-
-
-
-
-
-
+    printf("a: %i, b: %i, xy: %i, inny: %i",
+           ile_a, ile_b, ile_xy, nieznany);
 
     return 0;
 }
